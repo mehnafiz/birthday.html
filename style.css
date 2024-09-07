@@ -31,13 +31,11 @@ body {
 	background-color: #ff99cc;
 	border: 1px solid #ddd;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-	
-  }
-.secret-message{
 	font-size: xx-large;
 	font-style:oblique;
 	text-align: center;
   }
+
   
   .show {
 	display: block;
