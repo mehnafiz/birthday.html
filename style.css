@@ -33,7 +33,11 @@ body {
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 	font-size: xx-large;
 	font-style:oblique;
-	text-align: center;
+	text-align: center;   
+	font-family: "Protest Guerrilla", sans-serif;
+	font-weight: 400;
+        font-style: normal;
+  }
   }
 
   
