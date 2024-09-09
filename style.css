@@ -2,6 +2,24 @@ body {
 	/*background-color: #f2f2f2;*/
 	font-family: Arial, sans-serif;
   }
+  .libre-baskerville-regular {
+	font-family: "Libre Baskerville", serif;
+	font-weight: 400;
+	font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+	font-family: "Libre Baskerville", serif;
+	font-weight: 700;
+	font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+	font-family: "Libre Baskerville", serif;
+	font-weight: 400;
+	font-style: italic;
+  }
+  
   
   .birthday-message {
 	width: 500px;
@@ -31,15 +49,12 @@ body {
 	background-color: #ff99cc;
 	border: 1px solid #ddd;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .secret-message{
 	font-size: xx-large;
 	font-style:oblique;
-	text-align: center;   
-	font-family: "Protest Guerrilla", sans-serif;
-	font-weight: 400;
-        font-style: normal;
+	text-align: center;
   }
-  }
-
   
   .show {
 	display: block;
